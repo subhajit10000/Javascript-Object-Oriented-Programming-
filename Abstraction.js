@@ -14,3 +14,9 @@ class Car {
 const car = new Car();
 
 car.start();
+
+
+
+//Output
+  //Engine started
+  //Car started
